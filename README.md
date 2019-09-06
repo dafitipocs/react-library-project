@@ -49,4 +49,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [Newton Delbuque](https://github.com/Newton Delbuque)
+MIT © [Newton Delbuque](https://github.com/newtondelbuque)
